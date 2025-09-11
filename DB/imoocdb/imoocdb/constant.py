@@ -1,0 +1,6 @@
+TEMP_DIRECTORY = 'temp'
+CATALOG_DIRECTORY = 'catalog'
+DATA_DIRECTORY = 'data'
+DEFAULT_WORKING_DIRECTORY = 'imoocdb_data'
+REDOLOG_FILENAME = 'redo.log'
+UNDOLOG_DIRECTORY = 'undo'
